@@ -13,7 +13,7 @@ function footer() {
                 Contact: <a href="mailto:xyz@gmail.com">contact@kirthibrand.com</a>
               </li>
               <li>
-                Tel: <a href="tel: +123456789012">+91 012-345-6789</a>
+                Tel: <a href="tel: +910123456789">+91 012-345-6789</a>
               </li>
             </ul>
           </div>
